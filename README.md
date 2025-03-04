@@ -51,4 +51,10 @@ This project is a **C# TCP server** that supports multiple client implementation
    ```
    The client will connect to the server and receive a message.
 
+## License
+This project is open-source and available under the MIT License.
+
+## Author
+Cezar Pedroso
+
 
