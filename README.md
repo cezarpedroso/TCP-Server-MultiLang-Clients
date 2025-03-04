@@ -51,20 +51,4 @@ This project is a **C# TCP server** that supports multiple client implementation
    ```
    The client will connect to the server and receive a message.
 
-## Folder Structure
-```
-MultiClient-TCP-Server/
-│── Server/        # C# TCP Server
-│── CSharpClient/  # C# Client
-│── PythonClient/  # Python Client
-│── README.md      # Project Documentation
-```
-
-## Future Enhancements
-- Support for additional client types (e.g., Java, mobile apps).
-- Implement bi-directional communication.
-- Add authentication for secure connections.
-
-## License
-This project is licensed under the MIT License.
 
